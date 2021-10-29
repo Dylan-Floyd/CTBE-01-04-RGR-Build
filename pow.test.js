@@ -1,3 +1,5 @@
+const pow = require('./pow.js');
+
 describe('POW BANG BOOM', () => {
 
     test('pow correctly raises a base to the exponent power', () => {
