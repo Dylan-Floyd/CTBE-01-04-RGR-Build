@@ -1,5 +1,5 @@
 function pow(base, exponent) {
-    return 4;
+    return Math.pow(base, exponent);
 }
 
 module.exports = pow;
